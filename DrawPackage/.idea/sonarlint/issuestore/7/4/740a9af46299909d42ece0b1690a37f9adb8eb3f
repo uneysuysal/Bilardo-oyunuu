@@ -1,0 +1,41 @@
+
+Fsquid:S1604u"(Make this anonymous inner class a lambda(Œ—Óš8³šĞÄ¥.
+¤squid:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8³šĞÄ¥.
+Ysquid:S1141ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¼Œ®Õ¥.
+Gsquid:S1604‰"(Make this anonymous inner class a lambda(íèòö8³šĞÄ¥.
+Lsquid:S1604º"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8§³ÎÑ¥.
+Lsquid:S1604é"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8’æÉÑ¥.
+Ksquid:S1948*"(Make "server" transient or serializable.(­«ÚÒùÿÿÿÿ8¼Œ®Õ¥.
+¥squid:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8§³ÎÑ¥.
+Csquid:S1948'"%Make "oos" transient or serializable.(ş°Âå8™‰ÅÑ¥.
+`squid:UselessImportCheck"5Remove this unused import 'functions.PanelFunctions'.(üâ•Ä8ó§Ä¥.
+;squid:S3010W"Remove this assignment of "y".(ø ¶38ÿËÂ¥.
+ squid:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8¼Œ®Õ¥.
+Gsquid:S1604"(Make this anonymous inner class a lambda(ÎÌ·İ8é¨¹Ñ¥.
+Ÿsquid:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8³šĞÄ¥.
+ squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8§³ÎÑ¥.
+1squid:S1220""Move this file to a named package.
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(‹ç»ëıÿÿÿÿ8¯ÒÉ„¥.
+Asquid:S3010V"Remove this assignment of "x".(¨¨ô±üÿÿÿÿ8³šĞÄ¥.
+\squid:S1197¹"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8§³ÎÑ¥.
+Ysquid:S2696V"6Make the enclosing method "static" or remove this set.(¨¨ô±üÿÿÿÿ8³šĞÄ¥.
+Gsquid:S1604€"(Make this anonymous inner class a lambda(ÙÁØÒ8³šĞÄ¥.
+¥squid:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8é¨¹Ñ¥.
+¥squid:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8§³ÎÑ¥.
+Gsquid:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼Œ®Õ¥.
+Csquid:S1948("%Make "ois" transient or serializable.(à‚åÛ8™‰ÅÑ¥.
+[squid:UnusedPrivateMethodß")Remove this unused private "send" method.(Ùßüüÿÿÿÿ8¼Œ®Õ¥.
+¥squid:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8§³ÎÑ¥.
+¥squid:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8§³ÎÑ¥.
+¥squid:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8¼Œ®Õ¥.
+Hsquid:S2387$"*"y" is the name of a field in "Component".(Æ†Š8ÿËÂ¥.
+¥squid:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8¼Œ®Õ¥.
+Gsquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼Œ®Õ¥.
+Isquid:S1948)"&Make "conn" transient or serializable.(÷¼Üöüÿÿÿÿ8¼Œ®Õ¥.
+¤squid:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8³šĞÄ¥.
+¥squid:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8¼Œ®Õ¥.
+¥squid:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8§³ÎÑ¥.
+Msquid:S2387#"*"x" is the name of a field in "Component".(òá‹ûüÿÿÿÿ8ªšÇ¥.
+Ssquid:S2696W"6Make the enclosing method "static" or remove this set.(ø ¶38ÿËÂ¥.
+¤squid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8³šĞÄ¥.
+¥squid:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8¼Œ®Õ¥.

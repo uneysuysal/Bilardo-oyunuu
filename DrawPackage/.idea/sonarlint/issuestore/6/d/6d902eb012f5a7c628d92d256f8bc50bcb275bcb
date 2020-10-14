@@ -1,0 +1,11 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÅ†œşÿÿÿÿ8€õ¹™¦.
+`squid:UselessImportCheck"5Remove this unused import 'functions.PanelFunctions'.(üâ•Ä8Ş²ûÃ¥.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(çÃïÀùÿÿÿÿ8€õ¹™¦.
+Jsquid:S1444
+"'Make this "public static c" field final(’–³ùûÿÿÿÿ8Ø„ëÄ¥.
+‡"squid:ClassVariableVisibilityCheck
+"MMake c a static final constant or non-public and provide accessors if needed.(’–³ùûÿÿÿÿ8Ø„ëÄ¥.
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(á‘Ï€ıÿÿÿÿ8šº³Ä¥.

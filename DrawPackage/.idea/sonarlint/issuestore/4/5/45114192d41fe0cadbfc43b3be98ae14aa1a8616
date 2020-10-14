@@ -1,0 +1,53 @@
+
+Hsquid:S2387"*"y" is the name of a field in "Component".(Æ†Š8°«›Û¥.
+Zsquid:S2696ò"6Make the enclosing method "static" or remove this set.(€òúÿÿÿÿ8ùÀò›¦.
+Hsquid:S1948"*Make "myClient" transient or serializable.(İöù¼8Ë‘—Û¥.
+Zsquid:S2696ñ"6Make the enclosing method "static" or remove this set.(Øºå€şÿÿÿÿ8Œà¦å¥.
+Gsquid:S1125¬"(Remove the literal "true" boolean value.(øİ”8ùÀò›¦.
+ squid:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8ùÀò›¦.
+¥squid:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8ùÀò›¦.
+Zsquid:S2696Ñ"6Make the enclosing method "static" or remove this set.(ƒ¿ØÏÿÿÿÿÿ8­èú›¦.
+isquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(€ØÃ8×„Ü¥.
+Tsquid:S2696Ğ"6Make the enclosing method "static" or remove this set.(¤°ø.8ùÀò›¦.
+Csquid:S1948"%Make "ois" transient or serializable.(à‚åÛ8Ë‘—Û¥.
+|squid:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ü¹ãøÿÿÿÿ8ˆû‰¦.
+Ÿsquid:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ¼õA8ùÀò›¦.
+Usquid:S2696Ö"6Make the enclosing method "static" or remove this set.(¸´ı8ã÷œœ¦.
+|squid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Êù”üÿÿÿÿ8‰Ğš¦.
+Lsquid:S1604µ"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ùÀò›¦.
+¥squid:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8ùÀò›¦.
+Usquid:S2696Ù"6Make the enclosing method "static" or remove this set.(·°ÉÁ8ã÷œœ¦.
+V
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(‚š‰18÷ª²œ¦.
+Esquid:S1604b"(Make this anonymous inner class a lambda(ë²£j8ÀßşÛ¥.
+¥squid:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8ùÀò›¦.
+Zsquid:S2696Ø"6Make the enclosing method "static" or remove this set.(‹×åøÿÿÿÿ8ã÷œœ¦.
+¥squid:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8ùÀò›¦.
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(«ãã’üÿÿÿÿ8Ë‘—Û¥.
+¥squid:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8ùÀò›¦.
+Gsquid:S1148¦"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëã•Ü¥.
+¥squid:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8ùÀò›¦.
+Lsquid:S1604¿"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ùÀò›¦.
+Zsquid:S2696×"6Make the enclosing method "static" or remove this set.(ƒ¿ØÏÿÿÿÿÿ8ã÷œœ¦.
+Usquid:S2696Ë"6Make the enclosing method "static" or remove this set.(¸´ı8èÀù›¦.
+Csquid:S1948"%Make "oos" transient or serializable.(ş°Âå8Ë‘—Û¥.
+Zsquid:S2696Ò"6Make the enclosing method "static" or remove this set.(‹×åøÿÿÿÿ8­èú›¦.
+Zsquid:S2696Ì"6Make the enclosing method "static" or remove this set.(ƒ¿ØÏÿÿÿÿÿ8èÀù›¦.
+Zsquid:S2696Æ"6Make the enclosing method "static" or remove this set.(‹×åøÿÿÿÿ8èÀù›¦.
+Tsquid:S2696O"6Make the enclosing method "static" or remove this set.(‚8 ÁÊ™¦.
+Zsquid:S2696Í"6Make the enclosing method "static" or remove this set.(¢½âşÿÿÿÿ8îÀœœ¦.
+ squid:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8ùÀò›¦.
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùÀò›¦.
+Zsquid:S2696Ó"6Make the enclosing method "static" or remove this set.(¢½âşÿÿÿÿ8îÀœœ¦.
+|squid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß‹£¦ıÿÿÿÿ8‰Ğš¦.
+Msquid:S2387"*"x" is the name of a field in "Component".(òá‹ûüÿÿÿÿ8°«›Û¥.
+_squid:S2259å"AA "NullPointerException" could be thrown; "msg" is nullable here.(È«¸U8ùÀò›¦.
+1squid:S1220""Move this file to a named package.
+Zsquid:S2696Ê"6Make the enclosing method "static" or remove this set.(ø¡¼Øüÿÿÿÿ8ùÀò›¦.
+vsquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éó¶Áüÿÿÿÿ8‡Ó¼œ¦.
+Zsquid:S2696Ä"6Make the enclosing method "static" or remove this set.(¸ãÀìùÿÿÿÿ8 óÃ›¦.
+5squid:S1700"Rename field "myClient"(İöù¼8Ë‘—Û¥.
+bsquid:UselessImportCheck"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿ8Ë‘—Û¥.
+Usquid:S2696Å"6Make the enclosing method "static" or remove this set.(¸´ı8èÀù›¦.
+Zsquid:S2696Ç"6Make the enclosing method "static" or remove this set.(¢½âşÿÿÿÿ8Ñ€œœ¦.
+Fsquid:S1604K"(Make this anonymous inner class a lambda(íèòö8ÀßşÛ¥.

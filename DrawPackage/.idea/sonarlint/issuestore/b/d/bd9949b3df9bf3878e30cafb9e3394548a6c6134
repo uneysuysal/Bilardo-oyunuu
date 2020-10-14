@@ -1,0 +1,7 @@
+
+`squid:UselessImportCheck"0Remove this unused import 'java.awt.Graphics2D'.(­¨ú¸üÿÿÿÿ8œþ¨•¦.
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8œþ¨•¦.
+1squid:S1220""Move this file to a named package.
+Ksquid:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8œþ¨•¦.
+^squid:UselessImportCheck".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ8œþ¨•¦.
+Fsquid:S16046"(Make this anonymous inner class a lambda(†‰—ò8œþ¨•¦.

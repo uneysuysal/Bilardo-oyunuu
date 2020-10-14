@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_drawpackage" default="compile.module.drawpackage">
+  <dirname property="module.drawpackage.basedir" file="${ant.file.module_drawpackage}"/>
+  
+  <property name="module.jdk.home.drawpackage" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.drawpackage" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.drawpackage" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.drawpackage" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="drawpackage.output.dir" value="${module.drawpackage.basedir}/out/production/DrawPackage"/>
+  <property name="drawpackage.testoutput.dir" value="${module.drawpackage.basedir}/out/test/DrawPackage"/>
+  
+  <path id="drawpackage.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="drawpackage.module.production.classpath">
+    <path refid="${module.jdk.classpath.drawpackage}"/>
+  </path>
+  
+  <path id="drawpackage.runtime.production.module.classpath">
+    <pathelement location="${drawpackage.output.dir}"/>
+  </path>
+  
+  <path id="drawpackage.module.classpath">
+    <path refid="${module.jdk.classpath.drawpackage}"/>
+    <pathelement location="${drawpackage.output.dir}"/>
+  </path>
+  
+  <path id="drawpackage.runtime.module.classpath">
+    <pathelement location="${drawpackage.testoutput.dir}"/>
+    <pathelement location="${drawpackage.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.drawpackage">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.drawpackage">
+    <patternset refid="excluded.from.module.drawpackage"/>
+  </patternset>
+  
+  <path id="drawpackage.module.sourcepath">
+    <dirset dir="${module.drawpackage.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.drawpackage" depends="compile.module.drawpackage.production,compile.module.drawpackage.tests" description="Compile module DrawPackage"/>
+  
+  <target name="compile.module.drawpackage.production" depends="register.custom.compilers" description="Compile module DrawPackage; production classes">
+    <mkdir dir="${drawpackage.output.dir}"/>
+    <javac2 destdir="${drawpackage.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.drawpackage}/javac">
+      <compilerarg line="${compiler.args.drawpackage}"/>
+      <bootclasspath refid="drawpackage.module.bootclasspath"/>
+      <classpath refid="drawpackage.module.production.classpath"/>
+      <src refid="drawpackage.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.drawpackage"/>
+    </javac2>
+    
+    <copy todir="${drawpackage.output.dir}">
+      <fileset dir="${module.drawpackage.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.drawpackage.tests" depends="register.custom.compilers,compile.module.drawpackage.production" description="compile module DrawPackage; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.drawpackage" description="cleanup module">
+    <delete dir="${drawpackage.output.dir}"/>
+    <delete dir="${drawpackage.testoutput.dir}"/>
+  </target>
+</project>

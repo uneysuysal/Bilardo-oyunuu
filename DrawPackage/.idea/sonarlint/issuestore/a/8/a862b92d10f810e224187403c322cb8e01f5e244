@@ -1,0 +1,13 @@
+
+Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8üç—Ø¥.
+Esquid:S1604;"(Make this anonymous inner class a lambda(ë²£j8üç—Ø¥.
+1squid:S1220""Move this file to a named package.
+Lsquid:S1604”"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ8üç—Ø¥.
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(œÝ³þÿÿÿÿ8üç—Ø¥.
+Csquid:S1948"%Make "ois" transient or serializable.(à‚åÛ8üç—Ø¥.
+Csquid:S1948"%Make "oos" transient or serializable.(þ°Âå8üç—Ø¥.
+Isquid:S1948"&Make "conn" transient or serializable.(÷¼Üöüÿÿÿÿ8üç—Ø¥.
+Gsquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8üç—Ø¥.
+Ksquid:S1948"(Make "server" transient or serializable.(­«ÚÒùÿÿÿÿ8üç—Ø¥.
+Xsquid:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8üç—Ø¥.
+Lsquid:S1604Ÿ"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ8üç—Ø¥.
